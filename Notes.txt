@@ -1,0 +1,7 @@
+
+I did not want to change much on the project to avoid being dismissed but I would have done the below items
+
+1.I would have used EF than using the old standard SQL Connection
+2.Add more layers to the project
+3.I would have created a configuration class to retrieve the connection strings hence hard codding values is not advisable
+4.I would have made the data repository more generic
